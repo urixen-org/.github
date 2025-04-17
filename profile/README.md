@@ -1,7 +1,7 @@
 # Xenovate
 
 <div align="center">
-  <img src="logo.png" alt="Xenovate Logo" width="400"/>
+  <img src="20250416_144752.jpg" alt="Xenovate Logo" width="400"/>
   <p><em>we craft code</em></p>
   
   [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/xenovate-foss)
