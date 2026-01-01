@@ -1,7 +1,7 @@
 # Urixen
 
 <div align="center">
-  <img src="20250416_144752.jpg" alt="Xenovate Logo" width="400"/>
+  <h1>Urixen</h1>
   <p><em>The next generation development</em></p>
   
   [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-181717?logo=github)](https://github.com/urixen-org)
@@ -33,7 +33,7 @@ We welcome contributors of all experience levels! Here's how you can get involve
 
 - Try our projects and [report bugs](https://github.com/urixen-org/.github/issues)
 - Star repositories you find useful
-- Spread the word about Xenovate projects
+- Spread the word about Urixen projects
 - Provide feedback on what features would help you
 
 ### For Contributors
@@ -48,7 +48,7 @@ We welcome contributors of all experience levels! Here's how you can get involve
 
 Join our community:
 
-- [Discord Server](https://discord.gg/QEer24JBYX)
+- [Discord Server](https://discord.gg/9KH5GAPTJY)
 - [GitHub Discussions](https://github.com/orgs/urixen-org/discussions)
 - [Matrix Chat](https://matrix.to/#/#urixen-org:matrix.org)
 
