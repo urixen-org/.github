@@ -68,7 +68,7 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ## License
 
-All Xenovate projects are released under open source licenses, typically MIT, Apache 2.0, or GPL v3. See individual projects for specific licensing information.
+All Urixen projects are released under open source licenses, typically CC, MIT, Apache 2.0, or GPL v3. See individual projects for specific licensing information.
 
 ---
 
